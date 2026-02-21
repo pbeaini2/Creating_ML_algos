@@ -1,5 +1,6 @@
-# Creating_ML_algos
-Creating and coding ML algorithms from scratch
+# Machine Learning Algorithms From Scratch
+
+A repository dedicated to recreating popular machine learning algorithms and models from scratch in python. It is a mental exercise to deepen understanding through practical examples.
 
 ### Motivation
 
